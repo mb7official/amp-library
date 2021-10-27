@@ -148,7 +148,7 @@ Line 10:
 Transformations made from HTML tags to AMP custom tags
 -------------------------------------------------------
 
-<img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160208081229-gaga-superbowl-exlarge-169.jpg"> at line 3
+<img src="https://i2.cdn.turner.com/cnnnext/dam/assets/160208081229-gaga-superbowl-exlarge-169.jpg"> at line 3
  ACTION TAKEN: img tag was converted to the amp-img tag.
 
 <iframe src="https://www.reddit.com"> at line 7
